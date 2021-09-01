@@ -46,6 +46,11 @@
 
 <div class="container">
   <div class="row">
+
+<div class="alert alert-primary" role="alert">
+    Je m'appelle Faouzi et j'apprend le développement web.
+</div>
+
     <div class="col-sm-12 col-md-4">
         <div class="card mt-5" style="width: 18rem;">
             <img src="https://th.bing.com/th/id/OIP.ja76YappdCM0BRfkjvIS3gHaE8?pid=ImgDet&rs=1" class="card-img-top card-img-vh" alt="...">
