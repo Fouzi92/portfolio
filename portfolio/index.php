@@ -47,9 +47,6 @@
 <div class="container">
   <div class="row">
 
-<div class="alert alert-primary" role="alert">
-    Je m'appelle Faouzi et j'apprend le développement web.
-</div>
 
     <div class="col-sm-12 col-md-4">
         <div class="card mt-5" style="width: 18rem;">
@@ -87,5 +84,6 @@
 <!--End Main -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
-</body>
+  <script src="app.js"></script>
+  </body>
 </html>
